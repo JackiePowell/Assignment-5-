@@ -36,5 +36,12 @@
 		<p>To learn more about John, visit his <a href="johndenzer.php"> page </a></p>
 		
 		<h3>Michelle Bushoy</h3>
-		<p>
+		<p>Michelle is a junior at University of Rochester. She is from Boston and is currently residing in Newton. She is studying Digital Media Studies with a minor in Computer Science. She is interested in the intersection of code and design. Aside from her educational interests, she enjoys biking, traveling and walking her dog, Archie. </p>
+		
+		<p>To learn more about Michelle, visit her <a href="michellebushoy.php"> page </a></p>
+		
+		<h3>Daniella Bloom</h3>
+		<p>Daniella was born and grew up in New York City on the Upper West Side. She lived with my mom, dad, brother Jamie and brother Paul. She started doing gymnastics recreationally and when she was 8, she joined a team. She stopped doing gymnastics right before highschool started.</p>
+		
+		<p>To learn more about Daniella, visit her <a href="daniellabloom.php"></a></p>
 	</body>
