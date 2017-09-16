@@ -36,15 +36,19 @@ Assignment 4
 		</nav>
 		
 		<h3>Interesting Facts</h3>
-		<p>- Born in San Francisco <br />
-		   - Played baseball for 15 years <br />
-		   - Studying Financial Economics <br />
-		   - Interested in a career in investment banking</p>
+		<ul>
+			<li>Born in San Francisco</li>
+			<li>Played baseball for 15 years</li>
+			<li>Studying Financial Economics</li>
+			<li>Interested in a career in investment banking</li>	
+		</ul>
 		
 		<h3>My Experience</h3>
-		<p>- Worked at Exit Partners, LLC.  Worked on CIMs, modeling and general day to day analyst assignments where I learned a lot about working in a group in an Investment Banking environment. <br />
-		   - Created own computer building business called Jack's PCs in high school focused on buying computer parts, building the computer, and installing in home of the clients. <br />
-		   - Worked as the president of the Young Men's Service League in high school helping out with philanthropies dedicated to special needs children around the Dallas Metroplex. </p>
+		<ul>
+		<li>Worked at Exit Partners, LLC.  Worked on CIMs, modeling and general day to day analyst assignments where I learned a lot about working in a group in an Investment Banking environment.</li>
+		<li>Created own computer building business called Jack's PCs in high school focused on buying computer parts, building the computer, and installing in home of the clients.</li>
+		<li>Worked as the president of the Young Men's Service League in high school helping out with philanthropies dedicated to special needs children around the Dallas Metroplex. </li>
+		</ul>
 		
 		<h3>My Schoolwork</h3>
 		<p>I have taken classes primarily in the Economics, Finance and Computer Science worlds.  Some of the Economics classes include ECO 108, 207, 209, 230, 231w and I am currently a Teaching Assistant for ECO 207.  I have taken Accounting 201 and am currently taking Finance 205.  In the Computer Science world, I have taken CSC 170, 171, 172 and now 174.  I am looking to leverage my classwork in Computer Science to make myself look like a more applicable candidate for investment banking roles. My favorite class that I have taken is ECO 207 as I undersood it and really enjoyed the professor's lectures. </p>

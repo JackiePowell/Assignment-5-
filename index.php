@@ -43,5 +43,5 @@
 		<h3>Daniella Bloom</h3>
 		<p>Daniella was born and grew up in New York City on the Upper West Side. She lived with my mom, dad, brother Jamie and brother Paul. She started doing gymnastics recreationally and when she was 8, she joined a team. She stopped doing gymnastics right before highschool started.</p>
 		
-		<p>To learn more about Daniella, visit her <a href="daniellabloom.php"></a></p>
+		<p>To learn more about Daniella, visit her <a href="daniellabloom.php"> page </a></p>
 	</body>

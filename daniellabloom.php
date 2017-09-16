@@ -12,6 +12,7 @@
 	
 
 <h1>The Life Of Daniella Bloom</h1>
+<h2>All about me</h2>
 
 
 	<nav class="menu">
@@ -29,14 +30,6 @@
 			</li>
 	</nav>
 
-	<h2>Early Life</h2>
-
-
-	<h2>Est. 1997</h2>
-
-	
-
-
 	<h3>Early Life</h3>
 
 		<p>I was born and grew up in New York City on the Upper West Side. I lived with my mom, dad, brother Jamie and brother Paul. I started doing gymnastics recreationally and when I was 8 I joined a team. I stopped doing gymnastics right before highschool started. </p>
@@ -49,9 +42,6 @@
 
 	<h3>Major and Minor</h3>
 		<p> I am majoring in business analytics and minoring in computer science with a focus on web design.</p>
-
-
-
 
 </body>
 
