@@ -12,7 +12,7 @@
 	
 
 <h1>The Life Of Daniella Bloom</h1>
-<<<<<<< HEAD
+
 
 	<nav class="menu">
 			<li>
@@ -30,12 +30,12 @@
 	</nav>
 
 	<h2>Early Life</h2>
-=======
+
 
 	<h2>Est. 1997</h2>
-<?php include "inc/first.inc"; ?>
+
 	<h3>Early Life</h2>
->>>>>>> e0477db2c73e36cea6e1fc9832ddac3929cf62ac
+
 
 	<h3>Early Life</h3>
 
