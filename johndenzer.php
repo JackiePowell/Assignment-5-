@@ -20,6 +20,21 @@ Assignment 4
 			<h2>An Introduction</h2>
 		</header>
 		
+		<nav class="menu">
+			<li>
+				<a href="index.php">Home</a>
+			</li>
+			<li>
+				<a href="johndenzer.php">John Denzer</a>
+			</li>
+			<li>
+				<a href="michellebushoy.php">Michelle Bushoy</a>
+			</li>
+			<li>
+				<a href="daniellabloom.php">Daniella Bloom</a>
+			</li>
+		</nav>
+		
 		<h3>Interesting Facts</h3>
 		<p>- Born in San Francisco <br />
 		   - Played baseball for 15 years <br />

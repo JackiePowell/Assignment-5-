@@ -8,8 +8,26 @@
 </head>
 
 <body>
+
+	
+
 <h1>The Life Of Daniella Bloom</h1>
-<?php include "inc/first.inc"; ?>
+
+	<nav class="menu">
+			<li>
+				<a href="index.php">Home</a>
+			</li>
+			<li>
+				<a href="johndenzer.php">John Denzer</a>
+			</li>
+			<li>
+				<a href="michellebushoy.php">Michelle Bushoy</a>
+			</li>
+			<li>
+				<a href="daniellabloom.php">Daniella Bloom</a>
+			</li>
+	</nav>
+
 	<h2>Early Life</h2>
 		<p>I was born and grew up in New York City on the Upper West Side. I lived with my mom, dad, brother Jamie and brother Paul. I started doing gymnastics recreationally and when I was 8 I joined a team. I stopped doing gymnastics right before highschool started. </p>
 	<h2>Education</h2>
