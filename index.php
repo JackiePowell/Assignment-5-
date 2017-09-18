@@ -6,8 +6,8 @@
 		<meta charset="utf-8">
 		<title>Assignment 4</title>
 		<link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="HW4/css/styles.css">
-		<link rel="stylesheet" type="text/css" href="HW4/css/navigation.css">
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		<link rel="stylesheet" type="text/css" href="navigation.css">
 	</head>
 	
 	<body>
