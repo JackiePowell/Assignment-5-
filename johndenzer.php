@@ -38,6 +38,7 @@ Assignment 4
 			<li>
 				<a href="daniellabloom.php">Daniella Bloom</a>
 			</li>
+		</center>
 		</nav>
 		
 		<h3>Interesting Facts</h3>
