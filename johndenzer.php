@@ -24,6 +24,8 @@ Assignment 4
 		</header>
 		
 		<nav class="menu">
+		<center>
+
 			<li>
 				<a href="index.php">Home</a>
 			</li>
