@@ -17,6 +17,7 @@
 		</header>
 		
 		<nav class="menu">
+		<center>
 			<li>
 				<a href="index.php">Home</a>
 			</li>
@@ -29,6 +30,7 @@
 			<li>
 				<a href="daniellabloom.php">Daniella Bloom</a>
 			</li>
+		</center>
 		</nav>
 
 		<h3>About Me</h3>
