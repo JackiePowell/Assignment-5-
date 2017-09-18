@@ -32,6 +32,7 @@
 			<li>
 				<a class="current" href="daniellabloom.php">Daniella Bloom</a>
 			</li>
+	</center>
 	</nav>
 
 	<h3>Early Life</h3>
