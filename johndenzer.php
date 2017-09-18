@@ -24,21 +24,7 @@ Assignment 4
 		</header>
 		
 		<nav class="menu">
-		<center>
-
-			<li>
-				<a href="index.php">Home</a>
-			</li>
-			<li>
-				<a class="current" href="johndenzer.php">John Denzer</a>
-			</li>
-			<li>
-				<a href="michellebushoy.php">Michelle Bushoy</a>
-			</li>
-			<li>
-				<a href="daniellabloom.php">Daniella Bloom</a>
-			</li>
-		</center>
+		<?php include "inc/menu.inc"; ?>
 		</nav>
 		
 		<h3>Interesting Facts</h3>
