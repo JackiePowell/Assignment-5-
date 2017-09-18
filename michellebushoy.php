@@ -5,6 +5,9 @@
 <head>
 <meta charset="UTF-8">
 <title>Michelle Bushoy</title>
+<link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="navigation.css">
 </head>
 
 <body>
