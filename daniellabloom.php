@@ -29,7 +29,7 @@
 				<a href="michellebushoy.php">Michelle Bushoy</a>
 			</li>
 			<li>
-				<a href="daniellabloom.php">Daniella Bloom</a>
+				<a class="current" href="daniellabloom.php">Daniella Bloom</a>
 			</li>
 	</nav>
 
