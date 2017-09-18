@@ -19,7 +19,7 @@
 		
 		<nav class="menu">
 			<li>
-				<a class="home" href="index.php">Home</a>
+				<a class="current" href="index.php">Home</a>
 			</li>
 			<li>
 				<a href="johndenzer.php">John Denzer</a>
