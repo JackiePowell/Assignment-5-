@@ -28,7 +28,7 @@ Assignment 4
 				<a href="index.php">Home</a>
 			</li>
 			<li>
-				<a href="johndenzer.php">John Denzer</a>
+				<a class="current" href="johndenzer.php">John Denzer</a>
 			</li>
 			<li>
 				<a href="michellebushoy.php">Michelle Bushoy</a>
