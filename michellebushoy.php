@@ -24,7 +24,7 @@
 				<a href="johndenzer.php">John Denzer</a>
 			</li>
 			<li>
-				<a href="michellebushoy.php">Michelle Bushoy</a>
+				<a class="current" href="michellebushoy.php">Michelle Bushoy</a>
 			</li>
 			<li>
 				<a href="daniellabloom.php">Daniella Bloom</a>
