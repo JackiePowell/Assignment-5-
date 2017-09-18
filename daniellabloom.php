@@ -12,10 +12,11 @@
 
 <body>
 
-	
 
+<header>
 <h1>The Life Of Daniella Bloom</h1>
 <h2>All about me</h2>
+</header>
 
 
 	<nav class="menu">
