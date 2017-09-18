@@ -1,0 +1,13 @@
+body {
+	font-family: 'Dosis', sans-serif;
+	background-color: #A9A9A9;
+	font-size:110%;
+	padding:15px 25px 15px 25px;
+	border:4px solid #84bcff;
+	border-spacing: 10px 10px;
+	border-bottom-style:none;
+}
+
+header {
+	text-align: center;
+}
