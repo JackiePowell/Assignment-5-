@@ -18,7 +18,7 @@
 		</header>
 		
 		<nav class="menu">
-			<?php include "inc/menu.inc"; ?>
+			<?php include "menu.inc"; ?>
 		</nav>
 		
 		
