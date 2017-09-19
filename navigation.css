@@ -1,12 +1,10 @@
 .menu ul {
 	display:inline;
-	text-align: center;
 	margin:0;
 	padding:0;
 	list-style-type: none;
 	position:absolute;
 	border-collapse:collapse;
-	text-align:center;
 }
 
 .menu li{
