@@ -1,6 +1,6 @@
 <center>
 			<li>
-				<a class="current" href="index.php">Home</a>
+				<a href="index.php">Home</a>
 			</li>
 			<li>
 				<a href="johndenzer.php">John Denzer</a>

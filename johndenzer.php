@@ -24,7 +24,7 @@ Assignment 4
 		</header>
 		
 		<nav class="menu">
-		<?php include "inc/menu.inc"; ?>
+			<?php include "menu.inc"; ?>
 		</nav>
 		
 		<h3>Interesting Facts</h3>
@@ -37,9 +37,9 @@ Assignment 4
 		
 		<h3>My Experience</h3>
 		<ul>
-		<li>Worked at Exit Partners, LLC.  Worked on CIMs, modeling and general day to day analyst assignments where I learned a lot about working in a group in an Investment Banking environment.</li>
-		<li>Created own computer building business called Jack's PCs in high school focused on buying computer parts, building the computer, and installing in home of the clients.</li>
-		<li>Worked as the president of the Young Men's Service League in high school helping out with philanthropies dedicated to special needs children around the Dallas Metroplex. </li>
+			<li>Worked at Exit Partners, LLC.  Worked on CIMs, modeling and general day to day analyst assignments where I learned a lot about working in a group in an Investment Banking environment.</li>
+			<li>Created own computer building business called Jack's PCs in high school focused on buying computer parts, building the computer, and installing in home of the clients.</li>
+			<li>Worked as the president of the Young Men's Service League in high school helping out with philanthropies dedicated to special needs children around the Dallas Metroplex. </li>
 		</ul>
 		
 		<h3>My Schoolwork</h3>

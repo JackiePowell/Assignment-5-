@@ -13,11 +13,11 @@
 <body>
 		<header>
 			<h1> Michelle Bushoy </h1>
-			<h2> Welcome to my website </h2>
+			<h2> An Introduction</h2>
 		</header>
 		
 		<nav class="menu">
-		<?php include "inc/menu.inc"; ?>
+			<?php include "menu.inc"; ?>
 		</nav>
 
 		<h3>About Me</h3>

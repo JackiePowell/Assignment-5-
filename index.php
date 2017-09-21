@@ -14,11 +14,11 @@
 	
 		<header>
 			<h1>Welcome to Our Assignment 4 Website</h1>
-			<h2>Created by Michelle, Daniella, and John</h2>
+			<h2>All About Michelle, Daniella, and John</h2>
 		</header>
 		
 		<nav class="menu">
-			<?php include "inc/menu.inc"; ?>
+			<?php include "menu.inc"; ?>
 		</nav>
 		
 		
@@ -36,4 +36,12 @@
 		<p>Daniella was born and grew up in New York City on the Upper West Side. She lived with my mom, dad, brother Jamie and brother Paul. She started doing gymnastics recreationally and when she was 8, she joined a team. She stopped doing gymnastics right before highschool started.</p>
 		
 		<p>To learn more about Daniella, visit her <a href="daniellabloom.php"> page here </a></p>
+		
+		<footer>
+			<p>CSC 174 - Professor Kostin</p>
+			<p>Website created by Michelle Bushoy (Designer), Daniella Bloom (Code Monkey), and John Denzer (Information Architect)</p>
+		</footer>
 	</body>
+	
+
+</html>
