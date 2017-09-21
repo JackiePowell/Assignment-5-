@@ -17,11 +17,7 @@
 		</header>
 		
 		<nav class="menu">
-<<<<<<< HEAD
 			<?php include "menu.inc"; ?>
-=======
-		<?php include "menu.inc"; ?>
->>>>>>> f1d609b6b3e4f0fba84ef6d372b5c5bbb1aa4424
 		</nav>
 
 		<h3>About Me</h3>
