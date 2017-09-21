@@ -51,6 +51,10 @@ Assignment 4
 		<h3>My Interests</h3>
 		<p>I am very interested in sports and in computers.  I follow European soccer very closely and I am an avid computer builder.  I am a huge Tottenham Hotspur fan and follow the news religiously regarding what is going on with them currently.  I enjoy following tech news as well and one of my favorite companies is AMD and I love following how their stock moves so quickly in the market due to their contributions to the semiconductor space. </p>		
 
+		<footer class="footer">
+			<?php include "footer.inc"; ?>
+		</footer>
+		
 	</body>
 	
 </html>

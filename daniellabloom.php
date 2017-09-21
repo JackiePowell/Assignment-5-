@@ -14,8 +14,8 @@
 
 
 <header>
-<h1>The Life Of Daniella Bloom</h1>
-<h2>An Introduction</h2>
+	<h1>The Life Of Daniella Bloom</h1>
+	<h2>An Introduction</h2>
 </header>
 
 
@@ -35,6 +35,10 @@
 
 	<h3>Major and Minor</h3>
 		<p> I am majoring in business analytics and minoring in computer science with a focus on web design.</p>
+		
+	<footer class="footer">
+			<?php include "footer.inc"; ?>
+	</footer>
 
 </body>
 

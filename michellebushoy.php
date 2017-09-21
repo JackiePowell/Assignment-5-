@@ -2,15 +2,15 @@
 
 <html>
 
-<head>
-<meta charset="UTF-8">
-<title>Michelle Bushoy</title>
-<link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="styles.css">
-<link rel="stylesheet" type="text/css" href="navigation.css">
-</head>
+	<head>
+	<meta charset="UTF-8">
+		<title>Michelle Bushoy</title>
+		<link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		<link rel="stylesheet" type="text/css" href="navigation.css">
+	</head>
 
-<body>
+	<body>
 		<header>
 			<h1> Michelle Bushoy </h1>
 			<h2> An Introduction</h2>
@@ -51,7 +51,11 @@
   				<li>HIS 285</li>
   				<li>CSC 131</li>
 			</ul>
+			
+		<footer class="footer">
+			<?php include "footer.inc"; ?>
+		</footer>
 
-</body>
+	</body>
 
 </html>

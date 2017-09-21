@@ -37,9 +37,8 @@
 		
 		<p>To learn more about Daniella, visit her <a href="daniellabloom.php"> page here </a></p>
 		
-		<footer>
-			<p>CSC 174 - Professor Kostin</p>
-			<p>Website created by Michelle Bushoy (Designer), Daniella Bloom (Code Monkey), and John Denzer (Information Architect)</p>
+		<footer class="footer">
+			<?php include "footer.inc"; ?>
 		</footer>
 	</body>
 	
