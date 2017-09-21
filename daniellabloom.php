@@ -14,7 +14,7 @@
 
 
 <header>
-	<h1>The Life Of Daniella Bloom</h1>
+	<h1>Daniella Bloom</h1>
 	<h2>An Introduction</h2>
 </header>
 
