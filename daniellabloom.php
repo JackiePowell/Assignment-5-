@@ -20,7 +20,18 @@
 
 
 	<nav class="menu">
-		<?php include "menu.inc"; ?>
+			<li>
+				<a href="index.php">Home</a>
+			</li>
+			<li>
+				<a href="johndenzer.php">John Denzer</a>
+			</li>
+			<li>
+				<a href="michellebushoy.php">Michelle Bushoy</a>
+			</li>
+			<li>
+				<a class="current" href="daniellabloom.php">Daniella Bloom</a>
+			</li>
 	</nav>
 
 	<h3>Early Life</h3>

@@ -17,7 +17,18 @@
 		</header>
 		
 		<nav class="menu">
-			<?php include "menu.inc"; ?>
+			<li>
+				<a href="index.php">Home</a>
+			</li>
+			<li>
+				<a href="johndenzer.php">John Denzer</a>
+			</li>
+			<li>
+				<a class="current" href="michellebushoy.php">Michelle Bushoy</a>
+			</li>
+			<li>
+				<a href="daniellabloom.php">Daniella Bloom</a>
+			</li>
 		</nav>
 
 		<h3>About Me</h3>
