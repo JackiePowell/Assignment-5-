@@ -24,6 +24,7 @@ Assignment 4
 		</header>
 		
 		<nav class="menu">
+		<ul>
 			<li>
 				<a href="index.php">Home</a>
 			</li>
@@ -36,6 +37,7 @@ Assignment 4
 			<li>
 				<a href="daniellabloom.php">Daniella Bloom</a>
 			</li>
+		</ul>
 		</nav>
 		
 		<h3>Interesting Facts</h3>

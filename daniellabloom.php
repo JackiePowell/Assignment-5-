@@ -20,6 +20,7 @@
 
 
 	<nav class="menu">
+		<ul>
 			<li>
 				<a href="index.php">Home</a>
 			</li>
@@ -32,6 +33,7 @@
 			<li>
 				<a class="current" href="daniellabloom.php">Daniella Bloom</a>
 			</li>
+		</ul>
 	</nav>
 
 	<h3>Early Life</h3>
