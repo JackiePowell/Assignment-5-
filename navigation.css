@@ -2,15 +2,6 @@
 	text-align:center;
 }
 
-.menu ul {
-	display:inline-block;
-	margin:0;
-	padding:0;
-	list-style-type: none;
-	position:absolute;
-	border-collapse:collapse;
-}
-
 .menu li{
 	display: inline-block;
 	border:1px solid black;
