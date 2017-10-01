@@ -4,10 +4,7 @@
 
 	<head>
 	<meta charset="UTF-8">
-		<title>Michelle Bushoy</title>
-		<link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="styles.css">
-		<link rel="stylesheet" type="text/css" href="navigation.css">
+	<title>Michelle Bushoy</title>
 	</head>
 
 	<body>
@@ -16,22 +13,6 @@
 			<h2> An Introduction</h2>
 		</header>
 		
-		<nav class="menu">
-		<ul>
-			<li>
-				<a href="index.php">Home</a>
-			</li>
-			<li>
-				<a href="johndenzer.php">John Denzer</a>
-			</li>
-			<li>
-				<a class="current" href="michellebushoy.php">Michelle Bushoy</a>
-			</li>
-			<li>
-				<a href="daniellabloom.php">Daniella Bloom</a>
-			</li>
-		</ul>
-		</nav>
 
 		<h3>About Me</h3>
 		<p>My name is Michelle, and I am a junior at University of Rochester. I am from the greater Boston area, and live in a suburb called Newton. I have an older sister named Yael. She is currently living in Manhattan and works at J.P. Morgan. I am studying Digital Media Studies with a minor in Computer Science. My scope of interest within my major lies in the intersection of code and design. I work best visually, and love seeing my designs come to life through code. Aside from my educational interests, I enjoy biking, traveling and walking my Irish Setter. My dog's name is Archie. </p>
@@ -65,9 +46,6 @@
   				<li>CSC 131</li>
 			</ul>
 			
-		<footer class="footer">
-			<?php include "footer.inc"; ?>
-		</footer>
 
 	</body>
 
