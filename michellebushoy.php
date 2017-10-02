@@ -8,10 +8,13 @@
 	</head>
 
 	<body>
-		<header>
-			<h1> Michelle Bushoy </h1>
-			<h2> An Introduction</h2>
-		</header>
+		<?php
+		$page = "michelle";
+		include "header.inc.php";
+		?>
+		
+		<h1> Michelle Bushoy </h1>
+		<h2> An Introduction</h2>
 		
 
 		<h3>About Me</h3>
