@@ -18,14 +18,13 @@
             <div class="minibios">
                 <div class="bio para2 shad">
                     <h2>Michelle Bushoy</h2>
-                    <p>"My name is Michelle, and I am a junior at University of Rochester. I am from
-		    	the greater Boston area, and live in a suburb called Newton. I have an older
-			sister named Yael. She is currently living in Manhattan and works at J.P.
-			Morgan. I am studying Digital Media Studies with a minor in Computer Science.
-			My scope of interest within my major lies in the intersection of code and
-			design. I work best visually, and love seeing my designs come to life through
-			code. Aside from my educational interests, I enjoy biking, traveling and
-			walking my Irish Setter. My dog's name is Archie."</p>
+                    <p>"Michelle Bushoy is a Digital Media Studies major and Computer Science minor at the 
+			University of Rochester. Michelle hopes to continue her studies in digital media to 
+			eventually work in web design, search engine optimization, or user experience. This 
+			past summer, she interned at Salary.com as a digital marketing intern. There, she mostly 
+			worked the website’s Search Engine Optimization (SEO). She is also currently interning 
+			with Gronk Fitness as an SEO analyst. On campus, Michelle is a tutor at Learning and Exploring 
+			at Play (LEAP) and the Vice President of Campus Affairs for Alpha Phi."</p>
                     <a href= "michellebushoy.php">Click for more about Michelle</a>
                 </div>
 
@@ -65,7 +64,7 @@
 
     <footer class="footer">
     <p>CSC 174 Webpage Design and Development</p>
-    <p>Created by Marshall, Ackerman and Powell</p>
+    <p>Created by Bushoy, Ackerman and Powell</p>
     </footer>
 
 </body>
