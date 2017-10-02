@@ -18,7 +18,14 @@
             <div class="minibios">
                 <div class="bio para2 shad">
                     <h2>Michelle Bushoy</h2>
-                    <p>"Some content should go here."</p>
+                    <p>"My name is Michelle, and I am a junior at University of Rochester. I am from
+		    	the greater Boston area, and live in a suburb called Newton. I have an older
+			sister named Yael. She is currently living in Manhattan and works at J.P.
+			Morgan. I am studying Digital Media Studies with a minor in Computer Science.
+			My scope of interest within my major lies in the intersection of code and
+			design. I work best visually, and love seeing my designs come to life through
+			code. Aside from my educational interests, I enjoy biking, traveling and
+			walking my Irish Setter. My dog's name is Archie."</p>
                     <a href= "michellebushoy.php">Click for more about Michelle</a>
                 </div>
 
