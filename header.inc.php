@@ -1,4 +1,3 @@
-<header>
     <section>
         <nav class="main-menu">
             <ul>
@@ -9,4 +8,3 @@
             </ul>
         </nav>
     </section>
-</header>

@@ -3,16 +3,23 @@
 
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="bio_styling.css">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
 	<title>Ben Ackerman</title>
 </head>
 
+<header>
+<?php
+$page = "ben";
+include "header.inc.php";
+?>
+</header>
+
 <body>
-	<?php
-	$page = "ben";
-	include "header.inc.php";
-	?>
-	<div class="about_us">
+
+ 		<div class="page" style="padding: 35px">
 
 		<h1>Ben Ackerman</h1>
 		<em>Broadcast engineer, programmer, and more</em>
@@ -28,25 +35,47 @@
 		Computer Interest Floor (CIF) as their tech maintenance director, maintaining
 		their computer lab in the basement of Anderson Tower.</p>
 
-	  <div class="para2">
+
+
+
+
+
+		
+
 		<h2>Projects:</h2>
+		<div class="grid-x">
+
+		<div class="small-3 large-4 cell" >
 		<h3>Composer2RDS</h3>
 		<p>Wrote a script that retrieves metadata from NPR's Composer system and
 		sends it to a radio station's RDS encoder to be broadcast to text-enabled
 		radios.  Supports Audemat FMB80 and Pira RDS encoders, and HD Radio PAD/PSD
 		too!</p>
+		</div>
 
-		<h3>Speakoo:</h3>
+		<div class="small-3 large-4 cell" >
+		<h3>Speakoo</h3>
 		<p>Worked on a team to build a web application that allows ESL and EFL
 		students to practice English using feedback crowdsourced from native speakers.
 		Also included HTML5-based games to help students practice.</p>
+		</div>
 
-		<h3>Campus Yard Sale:</h3>
+ 		<div class="small-3 large-4 cell" >
+		<h3>Campus Yard Sale</h3>
 		<p>Worked on a team that created a platform (using a Node.js backend) for
 		buying and selling items within a college campus as a project for a web
 		programming course.</p>
+		</div>
+
 	  </div>
-  </div>
+	  </div>
+
+
+
+  <script src="js/vendor/jquery.js"></script>
+  <script src="js/vendor/what-input.js"></script>
+  <script src="js/vendor/foundation.js"></script>
+  <script src="js/app.js"></script>
 </body>
 
 </html>

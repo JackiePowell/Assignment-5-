@@ -3,17 +3,23 @@
 
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="bio_styling.css">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
 	<title>Jackie Powell</title>
 </head>
 
-<body>
+<header>
 	<?php
 	$page = "jackie";
 	include "header.inc.php";
 	?>
+</header>
+
+<body>
+
 	<div class="about_us">
-	
 		<h1>Jackie Powell</h1>
 		<em> Aspiring Social Justice Journalist and Sports Columnist</em>
 		<p>"Jackie Powell is a current International Relations major while 
@@ -54,6 +60,11 @@
 		   sponosor. Helped brainstorm the logistics for a fanfest event to be held in Canada next summer. </p>
 	  </div>
   </div>
+
+  <script src="js/vendor/jquery.js"></script>
+  <script src="js/vendor/what-input.js"></script>
+  <script src="js/vendor/foundation.js"></script>
+  <script src="js/app.js"></script>
 
 </body>
 

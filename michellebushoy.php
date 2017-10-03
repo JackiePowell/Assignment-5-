@@ -1,51 +1,52 @@
 <!DOCTYPE html>
-
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<title>Michelle Bushoy</title>
-	</head>
 
-	<body>
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+	<title>Michelle Bushoy</title>
+</head>
+
+<header>
 		<?php
 		$page = "michelle";
 		include "header.inc.php";
 		?>
+</header>
 		
+<body>
 		<h1>Michelle Bushoy</h1>
-		<em>An Introduction</em>
+		<em>Dog lover, aspiring designer, and more. </em>
+		<p>Michelle Bushoy is a Digital Media Studies major and Computer Science minor at the 
+            University of Rochester. Michelle hopes to continue her studies in digital media to 
+            eventually work in web design, search engine optimization, or user experience. This 
+            past summer, she interned at Salary.com as a digital marketing intern. There, she mostly 
+            worked the website’s Search Engine Optimization (SEO). She is also currently interning 
+            with Gronk Fitness as an SEO analyst. On campus, Michelle is a tutor at Learning and Exploring 
+            at Play (LEAP) and the Vice President of Campus Affairs for Alpha Phi. </p>
 		
-		<p>My name is Michelle, and I am a junior at University of Rochester. I am from the greater Boston area, and live in a suburb called Newton. I have an older sister named Yael. She is currently living in Manhattan and works at J.P. Morgan. I am studying Digital Media Studies with a minor in Computer Science. My scope of interest within my major lies in the intersection of code and design. I work best visually, and love seeing my designs come to life through code. Aside from my educational interests, I enjoy biking, traveling and walking my Irish Setter. My dog's name is Archie. </p>
-		
-		<div> <!-- We'll add the proper class here later -->
-			<h2>Education</h2>
-			<h3>University of Rochester</h3>
-			<ul>
-				<li>Major: Digital Media Studies, B.A. </li>
-				<li>Minor: Computer Science</li>
-				<li>Recipient of Dean's Merit Scholarship</li>
-				<li>Sinai Scholar</li>
-			</ul>
-			
-			<h3>Courses</h3>			
-			<ul>
-				<li>CSC 170</li>
-				<li>MTH 161</li>
-				<li>MTH 162</li>
-				<li>CSC 171</li>
-				<li>MTH 159</li>
-				<li>DMS 103</li>
-				<li>ECO 108</li>
-				<li>HIS 285</li>
-				<li>CSC 131</li>
-			</ul>
+		<div class="para2">
+		<h2>Projects:</h2>
+		<h3>Gronk Fitness Products: Current SEO Analyst Intern</h3>
+		<p>Created and implemented a Search Engine Optimization (SEO) plan for Gronk Fitness Products shopify website. </p>
 
-			<h3>Newton South High School</h3>
-			<ul>
-				<li>Newton South High School Senate</li>
-				<li>Big Brother, Big Sister </li>
-				<li>Children of Ghana</li>
-			</ul>
-		</div>
-	</body>
+		<h3>Salary.Com: Summer Intern</h3>
+		<p>Worked on a team of digital marketers to create and implement a Search Engine Optimization (SEO) plan. Worked primarily on keyword expansion. </p>
+
+		<h3>AB Data Consultants: Summer Intern</h3>
+		<p>Designed wireframes for the landing page of a employee compensation management system web portal. Used HTML, CSS and jQuery to create a mock landing page for the portal. </p>
+
+	  </div>
+  </div>
+
+<script src="js/vendor/jquery.js"></script>
+<script src="js/vendor/what-input.js"></script>
+<script src="js/vendor/foundation.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+
 </html>
