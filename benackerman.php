@@ -10,17 +10,19 @@
 	<title>Ben Ackerman</title>
 </head>
 
-<header>
-<?php
-$page = "ben";
-include "header.inc.php";
-?>
-</header>
-
 <body>
 
- 		<div class="page" style="padding: 35px">
+	<header>
+		<?php
+		$page = "ben";
+		include "header.inc.php";
+		?>
+	</header>
 
+
+ 		<section class="page" style="padding: 40px"> <!-- section for the whole page minus nav, 40px padding on each side -->
+		<div class="grid-x">
+		<div class="large-12 cell" >
 		<h1>Ben Ackerman</h1>
 		<em>Broadcast engineer, programmer, and more</em>
 
@@ -35,17 +37,11 @@ include "header.inc.php";
 		Computer Interest Floor (CIF) as their tech maintenance director, maintaining
 		their computer lab in the basement of Anderson Tower.</p>
 
-
-
-
-
-
-		
-
+		<section class="projects" style="padding-top:40px"> <!-- section just for the projects, 40px padding on top -->
 		<h2>Projects:</h2>
-		<div class="grid-x">
 
-		<div class="small-3 large-4 cell" >
+		<div class="grid-x">
+		<div class="small-3 large-4 cell" style="padding-right: 20px" >
 		<h3>Composer2RDS</h3>
 		<p>Wrote a script that retrieves metadata from NPR's Composer system and
 		sends it to a radio station's RDS encoder to be broadcast to text-enabled
@@ -53,7 +49,7 @@ include "header.inc.php";
 		too!</p>
 		</div>
 
-		<div class="small-3 large-4 cell" >
+		<div class="small-3 large-4 cell" style="padding-right: 20px">
 		<h3>Speakoo</h3>
 		<p>Worked on a team to build a web application that allows ESL and EFL
 		students to practice English using feedback crowdsourced from native speakers.
@@ -67,8 +63,11 @@ include "header.inc.php";
 		programming course.</p>
 		</div>
 
-	  </div>
-	  </div>
+	 	</div>
+	 	
+		</section> <!-- end project section -->
+
+		</section> <!-- end page section -->
 
 
 

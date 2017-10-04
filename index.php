@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
   </head>
-<body>
+
   <header>
   <?php
   $page = "home";
@@ -17,7 +17,7 @@
   ?>
   </header>
 
-  
+  <body>
       
     <div class="grid-x" style="padding: 45px">
       <div class="small-6 large-10 cell" style="padding: 20px">
