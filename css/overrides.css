@@ -57,4 +57,28 @@ color: #1E90FF;
 padding: 20px
 }
 
+.main-menu{
+	text-align:center;
+}
 
+.main-menu li{
+	display: inline-block;
+	border:1px solid black;
+}
+
+.main-menu a{
+	color: black;
+	display: block;
+	padding: 2px 20px 5px 20px;
+	text-decoration:none;
+}
+
+.main-menu a:hover{
+	color:black;
+	background-color:white;
+}
+
+.main-menu li a.current{
+	color:black;
+	background-color:green;
+}
