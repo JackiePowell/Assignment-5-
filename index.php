@@ -17,6 +17,8 @@
   include "header.inc.php";
   ?>
   </header>
+  
+  <img src="images/U-of-R.jpg" alt="rochester">
 
   <body>
       
