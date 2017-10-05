@@ -1,26 +1,8 @@
-<!doctype html>
-<html class="no-js" lang="en" dir="ltr">
-
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignment 5 - Sydney</title>
-    <link rel="stylesheet" href="css/foundation.css">
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" href="css/overrides.css">
-  </head>
-
-  <header>
-  <?php
-  $page = "home";
-  include "header.inc.php";
-  ?>
-  </header>
+<?php
+include "master_header.inc.php";
+?>
   
-  <img src="images/U-of-R.jpg" alt="rochester">
-
-  <body>
+    <img src="images/U-of-R.jpg" alt="rochester">
       
     <div class="grid-x" style="padding: 45px">
       <div class="small-6 large-10 cell" style="padding: 20px">
@@ -71,9 +53,6 @@
       </div>
 
     </div>
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/vendor/what-input.js"></script>
-    <script src="js/vendor/foundation.js"></script>
-    <script src="js/app.js"></script>
-  </body>
-</html>
+<?php
+include "master_footer.inc.php";
+?>
