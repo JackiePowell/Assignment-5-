@@ -1,23 +1,7 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="css/foundation.css">
-	<link rel="stylesheet" href="css/app.css">
-	<title>Jackie Powell</title>
-</head>
-
-<body>
-
-	<header>
-		<?php
-		$page = "jackie";
-		include "header.inc.php";
-		?>
-	</header>
+<?php
+$page = "jackie";
+include "master_header.inc.php";
+?>
 
         <img src="images/headshot.jpg" alt="jackie">
 	
@@ -80,12 +64,6 @@
 	</section> <!-- end project section -->
 
 	</section> <!-- end page section -->
-
-  <script src="js/vendor/jquery.js"></script>
-  <script src="js/vendor/what-input.js"></script>
-  <script src="js/vendor/foundation.js"></script>
-  <script src="js/app.js"></script>
-
-</body>
-
-</html>
+<?php
+include "master_footer.inc.php";
+?>
