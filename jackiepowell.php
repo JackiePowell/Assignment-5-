@@ -19,7 +19,8 @@
 		?>
 	</header>
 
-
+        <img src="images/headshot.jpg" alt="jackie">
+	
 	<section class="page" style="padding: 40px"> <!-- section for the whole page minus nav, 40px padding on each side -->
 	<div class="grid-x">
 	<div class="large-12 cell" >
