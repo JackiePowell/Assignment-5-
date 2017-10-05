@@ -27,7 +27,7 @@ h1 {
 
 
 h2 {
-	color: #1E90FF;
+	color: #0071E1;
 	font-size: 30px;
     line-height: 40px;
 }
@@ -73,6 +73,11 @@ padding: 20px
 }
 
 .main-menu a:hover{
+	color:black;
+	background-color:white;
+}
+
+.main-menu li.current{
 	color:black;
 	background-color:white;
 }
