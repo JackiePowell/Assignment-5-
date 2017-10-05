@@ -37,23 +37,36 @@ header {
   background-color: white;
   background-image: linear-gradient(#1E90FF, white);
   font-family: "Arial", Helvetica, sans-serif;
+}
 
+.container {
+	margin: auto;
+	width: 90%;
+	max-width: 960px;
+}
+
+.vertical-pad {
+	padding: 20px 0px;
+}
+
+.projects {
+	padding-top: 40px;
+}
+
+.project-cell {
+	padding-right: 20px;
 }
 
 .grid-x {
-color: #1E90FF
-padding: 20px;
+	padding: 20px 0px;
 }
 
-.small-6large-10cell {
-color: #1E90FF
-padding: 20px;
+.grid-y {
+	padding: 45px;
 }
 
-
-.small-3large-4cell {
-color: #1E90FF;
-padding: 20px
+.page {
+	padding: 40px;
 }
 
 .main-menu{
