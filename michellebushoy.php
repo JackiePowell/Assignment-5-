@@ -5,8 +5,8 @@ include "master_header.inc.php";
 	
 	<img src="images/michelle.png" alt="michelle">
 		
-
-	<section class="page" style="padding: 40px"> <!-- section for the whole page minus nav, 40px padding on each side -->
+	<div class="container">
+	<section class="page"> <!-- section for the whole page minus nav, 40px padding on each side -->
 	<div class="grid-x">
 	<div class="large-12 cell" >
 	<h1>Michelle Bushoy</h1>
@@ -21,21 +21,21 @@ include "master_header.inc.php";
         </div>
         </div>
 		
-        <section class="projects" style="padding-top:40px"> <!-- section just for the projects, 40px padding on top -->
+        <section class="projects"> <!-- section just for the projects, 40px padding on top -->
 	<h2>Projects:</h2>
 
 	<div class="grid-x">
-	<div class="small-3 large-4 cell" style="padding-right: 20px">
+	<div class="small-3 large-4 cell project-cell">
 	<h3>Gronk Fitness Products: Current SEO Analyst Intern</h3>
 	<p>Created and implemented a Search Engine Optimization (SEO) plan for Gronk Fitness Products shopify website. </p>
 	</div>
 
-	<div class="small-3 large-4 cell" style="padding-right: 20px" >
+	<div class="small-3 large-4 cell project-cell">
 	<h3>Salary.Com: Summer Intern</h3>
 	<p>Worked on a team of digital marketers to create and implement a Search Engine Optimization (SEO) plan. Worked primarily on keyword expansion. </p>
 	</div>
 
-	<div class="small-3 large-4 cell" >
+	<div class="small-3 large-4 cell">
 	<h3>AB Data Consultants: Summer Intern</h3>
 	<p>Designed wireframes for the landing page of a employee compensation management system web portal. Used HTML, CSS and jQuery to create a mock landing page for the portal. </p>
 	</div>
@@ -45,6 +45,7 @@ include "master_header.inc.php";
 	</section> <!-- end project section -->
 
 	</section> <!-- end page section -->
+	</div>
 
 <?php
 include "master_footer.inc.php";

@@ -3,9 +3,10 @@ $page = "jackie";
 include "master_header.inc.php";
 ?>
 
-        <img src="images/headshot.jpg" alt="jackie">
+        <div class="container">
+	<img src="images/headshot.jpg" alt="jackie">
 	
-	<section class="page" style="padding: 40px"> <!-- section for the whole page minus nav, 40px padding on each side -->
+	<section class="page"> <!-- section for the whole page minus nav, 40px padding on each side -->
 	<div class="grid-x">
 	<div class="large-12 cell" >
 	<h1>Jackie Powell</h1>
@@ -24,11 +25,11 @@ include "master_header.inc.php";
         </div>
         </div>
 	  
-	<section class="projects" style="padding-top:40px"> <!-- section just for the projects, 40px padding on top -->
+	<section class="projects"> <!-- section just for the projects, 40px padding on top -->
 	<h2>Projects:</h2>
 
 	<div class="grid-x">
-	<div class="small-2 large-3 cell" style="padding-right: 20px" >
+	<div class="small-2 large-3 cell project-cell">
 	<h3>Campus Times: Former Sports Editor, Current Columnist</h3>
 	<p>Served as the former sports editor where she created budgets, edited
 	articles, carried out interviews and even wrote pieces for the section.
@@ -36,7 +37,7 @@ include "master_header.inc.php";
 	and political stories that collide with sports. </p>
 	</div>
 
-	<div class="small-2 large-3 cell" style="padding-right: 20px" >
+	<div class="small-2 large-3 cell project-cell">
 	<h3>Harriet Harman MP: Constituency Office Intern</h3>
 	<p>Provided the consituency office with instant support. Wrote letters and
 	spoke with constituents including those with immigration, housing and other issues
@@ -44,7 +45,7 @@ include "master_header.inc.php";
 	her promote her book "A Woman's Work". </p>
 	</div>
 
-	<div class="small-2 large-3 cell" style="padding-right: 20px" >
+	<div class="small-2 large-3 cell project-cell">
 	<h3>Everytalks: Radio Talkshow Host</h3>
 	<p> Hosts a sports radio talk show every Friday on the University's online radio
 	station, the Sting. The show features news updates, hot takes and interviews with
@@ -64,6 +65,7 @@ include "master_header.inc.php";
 	</section> <!-- end project section -->
 
 	</section> <!-- end page section -->
+	</div>
 <?php
 include "master_footer.inc.php";
 ?>
