@@ -18,6 +18,8 @@
 		include "header.inc.php";
 		?>
 	</header>
+	
+	<img src="images/michelle.png" alt="michelle">
 		
 
 	<section class="page" style="padding: 40px"> <!-- section for the whole page minus nav, 40px padding on each side -->
