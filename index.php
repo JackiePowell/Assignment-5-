@@ -1,4 +1,5 @@
 <?php
+$page = "home";
 include "master_header.inc.php";
 ?>
   
